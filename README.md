@@ -47,24 +47,24 @@
 ####   <a href="https://tincanblack.github.io/RyansPortfilo" target="_blank"><B>個人作品集</B></a> <BR>
  - 無套用任何框架 <BR>
  - 使用 SCSS 撰寫樣式管理網頁版型。 <BR>
- - Javascript、jQuery ( animate ) 應用(Typed.js、Fullpage.js、masonry)。 <BR>
+ - Javascript、jQuery ( animate ) 第三方插件應用<BR>
  
 ####   <a href="https://tincanblack.github.io/CTBC/" target="_blank"><B>中國信託投信</B></a> <BR>
  - 設計三款 Mockup 畫面供客戶挑選  <BR>
  - Bootstrap 建立版型。 <BR>
- - Javascript、jQuery ( animate ) 應用。 <BR>
+ - Javascript、jQuery ( animate ) 第三方插件應用。 <BR>
  - 兼容各家瀏覽器版本 ( IE 10+ )。 <BR>
 
 #### <a href="https://tincanblack.github.io/kingcar-kavalanmalz" target="_blank"><B>金車飲料活動網站 - 噶瑪蘭黑麥汁 </B></a> <BR>
  - 繪製 Mockup 示意畫面 <BR>
  - Bootstrap 建立版型。 <BR>
- - Javascript、jQuery ( animate ) 應用。 <BR>
+ - Javascript、jQuery ( animate ) 第三方插件應用。 <BR>
  - Animate.css 插件應用。 <BR>
   
 #### <a href="https://tincanblack.github.io/kingcar-easycook" target="_blank"><B>金車飲料活動網站 - 滿鮮冷凍麵 </B></a> <BR>
  - 繪製 Mockup 示意畫面 <BR>
  - Bootstrap 建立版型。 <BR>
- - Javascript、jQuery ( animate ) 應用。 <BR>
+ - Javascript、jQuery ( animate ) 第三方插件應用。 <BR>
  - Animate.css 插件應用。 <BR>
   
 #### <a href="http://www.taisuntaiwan.com/index.php" target="_blank"><B>泰昇國際(控股)有限公司</B></a> <BR>
@@ -79,7 +79,7 @@
  - 使用政府開放平台及時抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上。<BR>
  
 #### <a href="https://tincanblack.github.io/HexResturant_v2/" target="_blank"><B>六角西餐廳 </B></a> <BR>
- - Javascript、jQuery ( animate ) 應用。 <BR>
+ - Javascript、jQuery ( animate ) 第三方插件應用。 <BR>
  - 無任何版型框架，純手刻
  - 使用 SCSS 撰寫樣式管理網頁版型。 <BR>
 
