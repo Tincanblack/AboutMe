@@ -1,7 +1,7 @@
 # 林智偉 (Ryan Lin)
 - Education: 聖約翰科技大學 / 資訊工程系
 - Location: Taiwan, Taipei City
-- E-mail: tinblack0920@gmail.com
+- E-mail: <a href="mailto:tinblack0920@gmail.com" target="_blank"><B>tinblack0920@gmail.com</B></a>
 
 ---
 ### FrontEnd Programming Language 專業技能
@@ -19,7 +19,7 @@
 ---
 ### Experience 工作經歷 
 
-#### 樂淘資訊有限公司 / 前端工程師 (2018.05 – now)
+#### 樂淘資訊有限公司 / 前端工程師 (2018.05 – 2022.10)
  - 切版開發 - 依照設計師的mockup切板製作官網各頁面、活動網站、企業內部系統等。
  - 改版優化 - 新增修改舊版網站功能、排除程式錯誤，優化使用者瀏覽體驗。
  - 後端溝通 – 依照行銷需求和後端工程師溝通、程式結構處理方式，協同優化、除錯、維護等。
@@ -29,7 +29,7 @@
 > - 透過lazyLoad優化使用者讀取圖片時的等待時間
 > - 統一並制定style guide達成公司視覺的一致性
 > - 利用BEM命名統一各區塊間的重用性使其模組化
-<BR>
+
 #### 英傑銳網路數位有限公司 / 專案設計師 (2017.10 – 2018.03)
  - RWD (Responsive-Web-Design) 網站開發及各式版型模組化。
  - 與後端工程師協同優化、除錯、維護等。
