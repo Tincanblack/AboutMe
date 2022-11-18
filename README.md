@@ -6,14 +6,30 @@
 ---
 ### FrontEnd Programming Language 專業技能
 
- - 具備操作 Photoshops、Illustrator 等繪圖軟體技能，能與設計師溝通討論 UI/UX介面。
- - 熟悉 HTML5 + CSS3 完成RWD頁面架構和布局
- - 熟悉 CSS Framework 應用於網頁介面開發 (Bootstrap)
- - 能夠不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
- - 能使用 SCSS 撰寫樣式管理網頁版型。
- - 了解 Javascript 基本語法，並使用 jQuery / CSS3 呈現網頁動態效果。
- - 利用 AJAX 撈取遠端 JSON 資料串接並顯示在網頁上
- - 能夠了解 Git / Github 與基本指令與運用達到版本控制與解決衝突。
+#### 前端框架
+ - 使用 Vue Cli /Vite 建立專案
+ - 擁有 Vue2、Vue3 開發經驗
+ - 擁有使用 Pinina 狀態管理的經驗
+ - Vue components 及第三方插件使用
+#### 前端開發
+ - 熟悉 JavaScript 語法 (ES6+)
+ - 熟悉 jQuery 語法及網頁互動的動畫效果
+ - 熟悉 AJAX / JSON 串接 第三方 API
+ - ESLint 控管程式碼品質
+#### Web Layout
+ - 熟悉 HTML5/CSS3 語意化標籤
+ - 能夠手刻各式 RWD 切版
+ - 具 Bootstrap5 開發經驗
+ - 善用 SCSS 規劃重複的元件使其模組化
+ - 熟悉 OOCSS、BEM 命名規範
+ #### 其他
+ - 擁有 Docker 使用經驗
+ - 擁有 GitLab 使用經驗
+ - 熟悉 Git 作為版本管理工具
+ - 能夠了解 Git / Github 與基本指令與運用達到版本控制與解決多人協作間的衝突
+ - 善用 POSTMAN 確認後端提供 API 的可行性
+ - 撰寫規格文件增加開發與維護的便利性
+ - 具備操作 Photoshops、Illustrator 等繪圖軟體技能
 
 ---
 ### Experience 工作經歷 
@@ -44,10 +60,13 @@
 ---
 ### Portfolio 作品 
 
-####   <a href="https://tincanblack.github.io/RyansPortfilo" target="_blank"><B>個人作品集</B></a> <BR>
- - 無套用任何框架 <BR>
- - 使用 SCSS 撰寫樣式管理網頁版型。 <BR>
- - 使用 jQuery 以及第三方插件應用。 <BR>
+####   <a href="https://tincanblack.github.io/found_houses/" target="_blank"><B>心儀房屋</B></a> <BR>
+ - 網站整體使用 Vue.js 撰寫
+ - 引入 Vue-axios、Vee-Validate、Vue-good-table 等第三方套件輔助應用
+ - 使用 Pinia 處理狀態管理
+ - 使用 SCSS 管理樣式 (BEM命名)
+ - 使用 Bootstrap5 響應式網頁 (RWD)
+ - 串接 Google API (Map、Sheets)
  
 ####   <a href="https://tincanblack.github.io/CTBC/" target="_blank"><B>中國信託投信</B></a> <BR>
  - 運用 Photoshops 繪製 Mockup 示意畫面  <BR>
@@ -58,10 +77,10 @@
 #### <a href="https://tincanblack.github.io/kingcar-kavalanmalz" target="_blank"><B>金車飲料活動網站 - 噶瑪蘭黑麥汁 </B></a> <BR>
  - 運用 Photoshops 繪製 Mockup 示意畫面 <BR>
  - 利用 Bootstrap 建立版型。 <BR>
- - 使用 jQuery 以及第三方插件應用(animate.css, smoothScroll.js, mouseWheel.js, classyscroll.js)。 <BR>
+ - 使用 jQuery 以及第三方插件應用 <BR>
   
 #### <a href="https://tincanblack.github.io/kingcar-easycook" target="_blank"><B>金車飲料活動網站 - 滿鮮冷凍麵 </B></a> <BR>
  - 運用 Photoshops 繪製 Mockup 畫面 <BR>
  - 利用 Bootstrap 建立版型。 <BR>
- - 使用 jQuery 以及第三方插件應用(animate.css, smoothScroll.js, mouseWheel.js, classyscroll.js)。 <BR>
+ - 使用 jQuery 以及第三方插件應用 <BR>
 
